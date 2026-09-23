@@ -1,0 +1,8 @@
+[GitHub](https://github.com/0lba/Lab3-MarkdownLaTeX_barakov)
+[Markdown](https://www.markdownguide.org/ "Перейти на Markdown")
+![рис. 1](/img\commitStructureLab3_barakov.png)
+[vgi2](https://m.vgi2.volsu.ru/)
+[dns](https://www.dns-shop.ru/)
+[ozon](https://www.ozon.ru/?__rr=1)
+![рис. 1](/img\gitPushLab3_barakov.png)
+![рис. 1](/img\gitPushLab3_barakov.png)
